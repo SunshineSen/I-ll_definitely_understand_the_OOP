@@ -1,4 +1,4 @@
-package Lec.Ex1;
+package Lec1.Ex001;
 
 public class PointMethod {
     static double distance(int x1, int y1, int x2, int y2) {
@@ -12,8 +12,8 @@ public class PointMethod {
         int bx = 0;
         int by = 1;
         System.out.println(distance(ax, ay, bx, by));
-        
-        // Создать точку
-        // Печатать точку
+        // Создать точку 
+        // Печать точки
     }
+
 }
